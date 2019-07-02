@@ -1,1 +1,1 @@
-# This is presentation for the devops course
+# This is presentation for the DevOps course
